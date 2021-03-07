@@ -44,21 +44,21 @@ ScriptsOnlyBuild:
     - Class: 104
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 1494}
+      Script: {instanceID: 1518}
     - Class: 114
-      Script: {instanceID: 2640}
+      Script: {instanceID: 2438}
     - Class: 114
-      Script: {instanceID: 2824}
+      Script: {instanceID: 2666}
     - Class: 114
-      Script: {instanceID: 3028}
+      Script: {instanceID: 2850}
     - Class: 114
-      Script: {instanceID: 3060}
+      Script: {instanceID: 3054}
     - Class: 114
-      Script: {instanceID: 3374}
+      Script: {instanceID: 3086}
     - Class: 114
-      Script: {instanceID: 3512}
+      Script: {instanceID: 3398}
     - Class: 114
-      Script: {instanceID: 24124}
+      Script: {instanceID: 3536}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 157
@@ -105,29 +105,29 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 1494}
+      Script: {instanceID: 1518}
     - Class: 114
-      Script: {instanceID: 1628}
+      Script: {instanceID: 1652}
     - Class: 114
-      Script: {instanceID: 1690}
+      Script: {instanceID: 1714}
     - Class: 114
-      Script: {instanceID: 2028}
+      Script: {instanceID: 2052}
     - Class: 114
-      Script: {instanceID: 2218}
+      Script: {instanceID: 2242}
     - Class: 114
-      Script: {instanceID: 2640}
+      Script: {instanceID: 2666}
     - Class: 114
-      Script: {instanceID: 2824}
+      Script: {instanceID: 2850}
     - Class: 114
-      Script: {instanceID: 3006}
+      Script: {instanceID: 3032}
     - Class: 114
-      Script: {instanceID: 3028}
+      Script: {instanceID: 3054}
     - Class: 114
-      Script: {instanceID: 3060}
+      Script: {instanceID: 3086}
     - Class: 114
-      Script: {instanceID: 3374}
+      Script: {instanceID: 3398}
     - Class: 114
-      Script: {instanceID: 3512}
+      Script: {instanceID: 3536}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -287,7 +287,7 @@ ScriptsOnlyBuild:
     className: AudioPlayableAsset
   - hash:
       serializedVersion: 2
-      Hash: d8f5acbb1fc9841a0dab004faab379e7
+      Hash: 1bcbbe6edc574b36c42476901976d177
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: Hefboom
@@ -357,6 +357,12 @@ ScriptsOnlyBuild:
     assemblyName: UnityEngine.UI.dll
     namespaceName: UnityEngine.UI
     className: RawImage
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: quit
   - hash:
       serializedVersion: 2
       Hash: c3d3430df9e3ea95e3e3d587961390fb
@@ -591,12 +597,6 @@ ScriptsOnlyBuild:
     assemblyName: Unity.TextMeshPro.dll
     namespaceName: TMPro
     className: TextContainer
-  - hash:
-      serializedVersion: 2
-      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: quit
   platform: 5
   scenePathNames:
   - Assets/Scenes/Begin.unity
