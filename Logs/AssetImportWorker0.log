@@ -1,59 +1,59 @@
 Using pre-set license
-Built from '2020.2/staging' branch; Version is '2020.2.5f1 (e2c53f129de5) revision 14861631'; Using compiler version '192528614'; Build Type 'Release'
-OS: 'Windows 10 Pro; OS build 18363.1316; Version 1909; 64bit' Language: 'en' Physical Memory: 16259 MB
+Built from '2020.2/staging' branch; Version is '2020.2.6f1 (8a2143876886) revision 9052483'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19041.804; Version 2004; 64bit' Language: 'en' Physical Memory: 32716 MB
 BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
 
  COMMAND LINE ARGUMENTS:
-C:\Program Files\Unity\Hub\Editor\2020.2.5f1\Editor\Unity.exe
+C:\Program Files\Unity\Hub\Editor\2020.2.6f1\Editor\Unity.exe
 -adb2
 -batchMode
 -noUpm
 -name
 AssetImportWorker0
 -projectPath
-C:/Users/NewUser/Documents/thuis/github/NatuurkundeGevisualiseerd
+E:/programming/unity/Natuurkunde gevisualiseerd
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-56057
-Successfully changed project path to: C:/Users/NewUser/Documents/thuis/github/NatuurkundeGevisualiseerd
-C:/Users/NewUser/Documents/thuis/github/NatuurkundeGevisualiseerd
+50623
+Successfully changed project path to: E:/programming/unity/Natuurkunde gevisualiseerd
+E:/programming/unity/Natuurkunde gevisualiseerd
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 43.80 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 25.23 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Initialize engine version: 2020.2.5f1 (e2c53f129de5)
-[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.2.5f1/Editor/Data/Resources/UnitySubsystems
-[Subsystems] Discovering subsystems at path C:/Users/NewUser/Documents/thuis/github/NatuurkundeGevisualiseerd/Assets
+Initialize engine version: 2020.2.6f1 (8a2143876886)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.2.6f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path E:/programming/unity/Natuurkunde gevisualiseerd/Assets
 GfxDevice: creating device client; threaded=0
 Direct3D:
     Version:  Direct3D 11.0 [level 11.1]
-    Renderer: Intel(R) HD Graphics 5500 (ID=0x1616)
+    Renderer: NVIDIA GeForce GTX 1070 (ID=0x1b81)
     Vendor:   
-    VRAM:     8129 MB
-    Driver:   20.19.15.5126
+    VRAM:     8088 MB
+    Driver:   27.21.14.5671
 Initialize mono
-Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.2.5f1/Editor/Data/Managed'
-Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.2.5f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
-Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.2.5f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56464
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.2.6f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.2.6f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.2.6f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56272
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
-Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.5f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.002823 seconds.
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.6f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.005384 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 35.38 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 21.98 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  2.503 seconds
+- Completed reload, in  1.646 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.001132 seconds.
+Registered in 0.001486 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
@@ -66,253 +66,25 @@ UnityEditor.Il2Cpp.SysrootPackage:IssueWarningIfLinuxIL2CPPNotPresent () (at Lib
 [Library/PackageCache/com.unity.sysroot@0.1.18-preview/Editor/Unity.SysrootPackage.cs line 53]
 
 Mono: successfully reloaded assembly
-- Completed reload, in  1.377 seconds
+- Completed reload, in  0.849 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.08 seconds
-Refreshing native plugins compatible for Editor in 0.37 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1123 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 58.1 MB.
-System memory in use after: 58.2 MB.
-
-Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 1570.
-Total: 2.541100 ms (FindLiveObjects: 0.196000 ms CreateObjectMapping: 0.081800 ms MarkObjects: 2.117500 ms  DeleteObjects: 0.143800 ms)
-
-========================================================================
-Received Import Request.
-  path: Assets/Scenes
-  artifactKey: Guid(48eee6fb13699514abb439f2b6bab491) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes using Guid(48eee6fb13699514abb439f2b6bab491) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ea1b6daddd9724ec733b51f07e6b1e8') in 0.036055 seconds
-  Import took 0.041475 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 7.279388 seconds.
-  path: Assets/Scenes/Begin.unity
-  artifactKey: Guid(08a6f2f7619c93e46bd6f9497a17df73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/Begin.unity using Guid(08a6f2f7619c93e46bd6f9497a17df73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd7e6663c97ac8529f6e7e3a15fcd2249') in 0.022350 seconds
-  Import took 0.025168 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 81.284566 seconds.
-  path: Assets/Scenes/Hefboom.unity
-  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/Hefboom.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd2b083ec84ff6f4e086f43febff826db') in 0.012923 seconds
-  Import took 0.017885 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000918 seconds.
-  path: Assets/Scenes/Hefboom.unity
-  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/Hefboom.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd2b083ec84ff6f4e086f43febff826db') in 0.007176 seconds
-  Import took 0.010312 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 13.469058 seconds.
-  path: Assets/Scripts/Hefboom.cs
-  artifactKey: Guid(c62ee06ca33611c44ac6710ff228ed4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/Hefboom.cs using Guid(c62ee06ca33611c44ac6710ff228ed4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c120d59cd5ef8d1441ab024131b6f1a8') in 0.148724 seconds
-  Import took 0.152526 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.001499 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.45 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Build target directory for LinuxStandaloneSupport does not exist!
-UnityEngine.StackTraceUtility:ExtractStackTrace ()
-UnityEditor.Il2Cpp.SysrootPackage:IsLinuxIL2CPPPresent () (at Library/PackageCache/com.unity.sysroot@0.1.18-preview/Editor/Unity.SysrootPackage.cs:53)
-UnityEditor.Il2Cpp.SysrootPackage:IssueWarningIfLinuxIL2CPPNotPresent () (at Library/PackageCache/com.unity.sysroot@0.1.18-preview/Editor/Unity.SysrootPackage.cs:68)
-
-[Library/PackageCache/com.unity.sysroot@0.1.18-preview/Editor/Unity.SysrootPackage.cs line 53]
-
-Mono: successfully reloaded assembly
-- Completed reload, in  1.828 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.48 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1118 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 58.1 MB.
-System memory in use after: 58.2 MB.
-
-Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1572.
-Total: 4.246700 ms (FindLiveObjects: 0.453400 ms CreateObjectMapping: 0.096500 ms MarkObjects: 3.660100 ms  DeleteObjects: 0.029200 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 274.076714 seconds.
-  path: Assets/Scripts/Hefboom.cs
-  artifactKey: Guid(c62ee06ca33611c44ac6710ff228ed4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/Hefboom.cs using Guid(c62ee06ca33611c44ac6710ff228ed4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8577710cc7e020ade03b7444b7fbb421') in 0.072869 seconds
-  Import took 0.078380 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.001602 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.39 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Build target directory for LinuxStandaloneSupport does not exist!
-UnityEngine.StackTraceUtility:ExtractStackTrace ()
-UnityEditor.Il2Cpp.SysrootPackage:IsLinuxIL2CPPPresent () (at Library/PackageCache/com.unity.sysroot@0.1.18-preview/Editor/Unity.SysrootPackage.cs:53)
-UnityEditor.Il2Cpp.SysrootPackage:IssueWarningIfLinuxIL2CPPNotPresent () (at Library/PackageCache/com.unity.sysroot@0.1.18-preview/Editor/Unity.SysrootPackage.cs:68)
-
-[Library/PackageCache/com.unity.sysroot@0.1.18-preview/Editor/Unity.SysrootPackage.cs line 53]
-
-Mono: successfully reloaded assembly
-- Completed reload, in  1.552 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.41 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1118 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 58.2 MB.
-System memory in use after: 58.2 MB.
-
-Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1574.
-Total: 3.262800 ms (FindLiveObjects: 0.316600 ms CreateObjectMapping: 0.139300 ms MarkObjects: 2.781700 ms  DeleteObjects: 0.022500 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.001538 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 1.10 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Build target directory for LinuxStandaloneSupport does not exist!
-UnityEngine.StackTraceUtility:ExtractStackTrace ()
-UnityEditor.Il2Cpp.SysrootPackage:IsLinuxIL2CPPPresent () (at Library/PackageCache/com.unity.sysroot@0.1.18-preview/Editor/Unity.SysrootPackage.cs:53)
-UnityEditor.Il2Cpp.SysrootPackage:IssueWarningIfLinuxIL2CPPNotPresent () (at Library/PackageCache/com.unity.sysroot@0.1.18-preview/Editor/Unity.SysrootPackage.cs:68)
-
-[Library/PackageCache/com.unity.sysroot@0.1.18-preview/Editor/Unity.SysrootPackage.cs line 53]
-
-Mono: successfully reloaded assembly
-- Completed reload, in  4.294 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.42 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1118 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 58.2 MB.
-System memory in use after: 58.3 MB.
-
-Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1576.
-Total: 3.359400 ms (FindLiveObjects: 0.257700 ms CreateObjectMapping: 0.077200 ms MarkObjects: 2.983100 ms  DeleteObjects: 0.038900 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.001432 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
 Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Build target directory for LinuxStandaloneSupport does not exist!
-UnityEngine.StackTraceUtility:ExtractStackTrace ()
-UnityEditor.Il2Cpp.SysrootPackage:IsLinuxIL2CPPPresent () (at Library/PackageCache/com.unity.sysroot@0.1.18-preview/Editor/Unity.SysrootPackage.cs:53)
-UnityEditor.Il2Cpp.SysrootPackage:IssueWarningIfLinuxIL2CPPNotPresent () (at Library/PackageCache/com.unity.sysroot@0.1.18-preview/Editor/Unity.SysrootPackage.cs:68)
+Unloading 1150 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 70.4 MB.
+System memory in use after: 70.4 MB.
 
-[Library/PackageCache/com.unity.sysroot@0.1.18-preview/Editor/Unity.SysrootPackage.cs line 53]
-
-Mono: successfully reloaded assembly
-- Completed reload, in  1.531 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.43 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1118 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 58.2 MB.
-System memory in use after: 58.3 MB.
-
-Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1578.
-Total: 3.332300 ms (FindLiveObjects: 0.344300 ms CreateObjectMapping: 0.148000 ms MarkObjects: 2.804700 ms  DeleteObjects: 0.032700 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.001714 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.39 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Build target directory for LinuxStandaloneSupport does not exist!
-UnityEngine.StackTraceUtility:ExtractStackTrace ()
-UnityEditor.Il2Cpp.SysrootPackage:IsLinuxIL2CPPPresent () (at Library/PackageCache/com.unity.sysroot@0.1.18-preview/Editor/Unity.SysrootPackage.cs:53)
-UnityEditor.Il2Cpp.SysrootPackage:IssueWarningIfLinuxIL2CPPNotPresent () (at Library/PackageCache/com.unity.sysroot@0.1.18-preview/Editor/Unity.SysrootPackage.cs:68)
-
-[Library/PackageCache/com.unity.sysroot@0.1.18-preview/Editor/Unity.SysrootPackage.cs line 53]
-
-Mono: successfully reloaded assembly
-- Completed reload, in  2.951 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.39 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1118 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 58.2 MB.
-System memory in use after: 58.3 MB.
-
-Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1580.
-Total: 3.327900 ms (FindLiveObjects: 0.237200 ms CreateObjectMapping: 0.076500 ms MarkObjects: 2.987100 ms  DeleteObjects: 0.025200 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.001601 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.27 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Build target directory for LinuxStandaloneSupport does not exist!
-UnityEngine.StackTraceUtility:ExtractStackTrace ()
-UnityEditor.Il2Cpp.SysrootPackage:IsLinuxIL2CPPPresent () (at Library/PackageCache/com.unity.sysroot@0.1.18-preview/Editor/Unity.SysrootPackage.cs:53)
-UnityEditor.Il2Cpp.SysrootPackage:IssueWarningIfLinuxIL2CPPNotPresent () (at Library/PackageCache/com.unity.sysroot@0.1.18-preview/Editor/Unity.SysrootPackage.cs:68)
-
-[Library/PackageCache/com.unity.sysroot@0.1.18-preview/Editor/Unity.SysrootPackage.cs line 53]
-
-Mono: successfully reloaded assembly
-- Completed reload, in  1.084 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.37 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1118 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 58.2 MB.
-System memory in use after: 58.3 MB.
-
-Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1582.
-Total: 1.836500 ms (FindLiveObjects: 0.152600 ms CreateObjectMapping: 0.041500 ms MarkObjects: 1.624300 ms  DeleteObjects: 0.016200 ms)
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 1611.
+Total: 1.937900 ms (FindLiveObjects: 0.186200 ms CreateObjectMapping: 0.091900 ms MarkObjects: 1.594400 ms  DeleteObjects: 0.064000 ms)
 
 ========================================================================
 Received Import Request.
-  Time since last request: 1049.232602 seconds.
-  path: Assets/Scenes/Afstand.unity
-  artifactKey: Guid(af8a9cfb534c9d44fa6d27c5ae06f50b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/Afstand.unity using Guid(af8a9cfb534c9d44fa6d27c5ae06f50b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a85b33bad928b42497ec08de591bfac2') in 0.037811 seconds
-  Import took 0.042357 seconds .
+  path: Assets/New Terrain.asset
+  artifactKey: Guid(8d10e733fd4cadb4b92e182184ad0d23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Terrain.asset using Guid(8d10e733fd4cadb4b92e182184ad0d23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bbdecf2f6f0d0db8fb502e4a9834874a') in 0.034169 seconds
+  Import took 0.036196 seconds .
 
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file
