@@ -136,7 +136,7 @@ GameObject:
   - component: {fileID: 217777835}
   - component: {fileID: 217777834}
   m_Layer: 0
-  m_Name: Hefboom (1)
+  m_Name: Afstand
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -217,7 +217,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: Hefboom
+          m_StringArgument: Afstand
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &217777835
@@ -272,7 +272,7 @@ GameObject:
   - component: {fileID: 221127853}
   - component: {fileID: 221127852}
   m_Layer: 0
-  m_Name: Hefboom (2)
+  m_Name: Electriciteit
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -664,7 +664,7 @@ GameObject:
   - component: {fileID: 1039680726}
   - component: {fileID: 1039680725}
   m_Layer: 0
-  m_Name: Hefboom (3)
+  m_Name: Brandpuntaftstand
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

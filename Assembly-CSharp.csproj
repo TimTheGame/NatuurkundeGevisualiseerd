@@ -61,6 +61,7 @@
     <Compile Include="Assets\Scripts\slider.cs" />
     <Compile Include="Assets\Scripts\switchScene.cs" />
     <Compile Include="Assets\Scripts\objects\hefboomKracht.cs" />
+    <Compile Include="Assets\Scripts\Afstand.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
