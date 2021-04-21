@@ -14,7 +14,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Afstand.unity
     guid: af8a9cfb534c9d44fa6d27c5ae06f50b
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Brandpuntafstand.unity
     guid: 49e1da1bea55d284d9f9487b3659060a
   m_configObjects: {}

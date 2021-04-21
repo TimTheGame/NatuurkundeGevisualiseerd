@@ -125,15 +125,15 @@ public class Hefboom : MonoBehaviour
         {
             if (Mathf.Floor(l.torque * 1000) < Mathf.Floor(r.torque * 1000))
             {
-                hefboom.transform.localEulerAngles = new Vector3(0, -16, 0);
-                rightArrow.transform.position = new Vector3(0.6095433f, 2.383646f + (Mathf.Tan(0.2792526803f) * r.distance), -1 * r.distance);
-                leftArrow.transform.position = new Vector3(0.6095433f, 2.383646f - (Mathf.Tan(0.2792526803f) * l.distance), l.distance);
-            }
-            else if (Mathf.Floor(l.torque * 1000) > Mathf.Floor(r.torque * 1000))
-            {
                 hefboom.transform.localEulerAngles = new Vector3(0, 16, 0);
                 rightArrow.transform.position = new Vector3(0.6095433f, 2.383646f - (Mathf.Tan(0.2792526803f) * r.distance), -1 * r.distance);
                 leftArrow.transform.position = new Vector3(0.6095433f, 2.383646f + (Mathf.Tan(0.2792526803f) * l.distance), l.distance);
+            }
+            else if (Mathf.Floor(l.torque * 1000) > Mathf.Floor(r.torque * 1000))
+            {
+                hefboom.transform.localEulerAngles = new Vector3(0, -16, 0);
+                rightArrow.transform.position = new Vector3(0.6095433f, 2.383646f + (Mathf.Tan(0.2792526803f) * r.distance), -1 * r.distance);
+                leftArrow.transform.position = new Vector3(0.6095433f, 2.383646f - (Mathf.Tan(0.2792526803f) * l.distance), l.distance);
             }
         }
         else
